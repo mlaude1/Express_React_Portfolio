@@ -2,6 +2,7 @@
 // dependencies
 /////////////////////////////////
 const express = require("express")
+const cors = require("cors");
 
 // Import JSON files
 const projects = require("./projects.json");
@@ -16,6 +17,7 @@ const app = express()
 /////////////////////////////////
 // MIDDLEWARE 
 /////////////////////////////////
+app.use(cors());
 app.use(express.json()) // parse json bodies, and make req.body
 
 //home route for testing our app
