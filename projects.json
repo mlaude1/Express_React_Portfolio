@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ATLA Trivia",
+    "live": "https://seir-project-1-xi.vercel.app/",
+    "git": "https://github.com/mlaude1/SEIR_project_1",
+    "image": "https://i.imgur.com/pUQWKQj.jpg?1"
+  },
+  {
+    "name": "Build-A-Bro",
+    "live": "https://mlaude-project2.herokuapp.com/",
+    "git": "https://github.com/mlaude1/SEIR_Project_2",
+    "image": "https://i.imgur.com/xGhF41K.png?1"
+  }
+]
